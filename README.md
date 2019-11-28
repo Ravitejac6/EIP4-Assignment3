@@ -1,6 +1,5 @@
 # EIP4-Assignment3
 
-# Assignment3
 Final Validation accuracy for Base Network = 81.92
 
 # Model Definition
